@@ -25,7 +25,7 @@ This project serves as a portfolio example of business intelligence and data vis
 - Stock trend analysis for 100+ companies  
 - Company-wise performance exploration  
 - Dynamic filters and slicers  
-- Dataset available for Excel analysis  
+- Raw & processed datasets available for Excel analysis  
 
 ---
 
@@ -49,13 +49,16 @@ Here is a snippet of the dataset used in the project:
 | 2025-01-02 | Google    | 2            | 950,000  |
 | 2025-01-03 | Microsoft | 5            | 1,100,000|
 
-### 📥 Download Dataset
+---
 
-You can download and open the dataset in Excel:
+## 📥 Download Dataset
 
-[Download financial_data.csv](data/processed/financial_data.csv)
+You can download and open the datasets in Excel:
 
-> **Tip:** Make sure your CSV file is in the `/data/processed/` folder in your repo.
+- **Processed data:** [stock_prices_processed.csv](data/processed/stock_prices_processed.csv)  
+- **Raw data:** [stock_prices_raw.csv](data/raw/stock_prices_raw.csv)
+
+> **Tip:** Make sure the files are in `/data/processed/` and `/data/raw/` folders in your repo.
 
 ---
 
@@ -77,8 +80,9 @@ Financial-Market-Analysis
 │   └── Financial_Market_Analysis.pbix  
 ├── data/  
 │   ├── raw/  
+│   │   └── stock_prices_raw.csv  
 │   └── processed/  
-│       └── financial_data.csv  
+│       └── stock_prices_processed.csv  
 ├── screenshots/  
 ├── documentation/  
 └── README.md  
@@ -99,13 +103,14 @@ Financial-Market-Analysis
    powerbi/Financial_Market_Analysis.pbix
    ```
 
-3. Open the dataset in Excel (optional):
+3. Open the datasets in Excel (optional):
 
    ```
-   data/processed/financial_data.csv
+   data/processed/stock_prices_processed.csv
+   data/raw/stock_prices_raw.csv
    ```
 
-4. Explore the dashboard and dataset using filters, slicers, and Excel analysis.
+4. Explore the dashboard and datasets using filters, slicers, and Excel analysis.
 
 ---
 
