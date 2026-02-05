@@ -39,6 +39,7 @@ This project serves as a portfolio example of financial data analysis and struct
 ## 📁 Repository Structure
 
 Financial-Market-Analysis/
+
 │
 
 ├── data/ # Datasets 
