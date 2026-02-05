@@ -2,7 +2,7 @@
 
 A professional financial market analysis project focused on exploring stock trends, understanding market behavior, and extracting meaningful insights from financial data.
 
-This repository demonstrates financial data analysis, basic visualization, and deployment of a Streamlit web application.
+This repository showcases an interactive Power BI dashboard built to analyze stock trends across 100+ companies.
 
 ---
 
@@ -13,38 +13,39 @@ The goal of this project is to analyze financial market data to identify:
 - Stock price trends  
 - Market performance patterns  
 - Key financial indicators  
-- Opportunities for deeper quantitative analysis  
+- Company-wise comparisons  
 
-This project serves as a portfolio example of applied financial data analysis and visualization.
+This project serves as a portfolio example of business intelligence and data visualization using Power BI.
 
 ---
 
 ## ✨ Key Features
 
-- Financial market trend analysis  
-- Stock performance exploration  
-- Interactive stock table generator (Streamlit)  
+- Interactive Power BI dashboard  
+- Stock trend analysis for 100+ companies  
+- Company-wise performance exploration  
+- Dynamic filters and slicers  
 - Clean and organized project structure  
-- Expandable for dashboards and advanced analytics  
 
 ---
 
-## 🔴 Live Stock Table Generator
+## 🔴 Live Power BI Dashboard
 
-👉 [Launch Stock Table Generator App](https://akilselot-financial-market-analysis-app-sbsmui.streamlit.app/)
+👉 [View Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/6fd63936-9279-45cb-9545-bc6680a96a0a/343523731186a2d9ee7a?experience=power-bi)
 
-[![Open App](https://img.shields.io/badge/Open%20App-Streamlit-red)](https://akilselot-financial-market-analysis-app-sbsmui.streamlit.app/)
+[![Open Dashboard](https://img.shields.io/badge/Open%20Dashboard-PowerBI-yellow)](https://app.powerbi.com/groups/me/reports/6fd63936-9279-45cb-9545-bc6680a96a0a/343523731186a2d9ee7a?experience=power-bi)
+
+**Note:** If the link doesn’t open for others, you may need to create a **“Publish to web”** link in Power BI (explained below).
 
 ---
 
 ## 🛠 Tools & Technologies
 
-- Python  
-- Pandas  
-- Matplotlib  
-- Streamlit  
-- Microsoft Excel / CSV  
 - Power BI  
+- Microsoft Excel / CSV  
+- Data Cleaning  
+- Data Modeling  
+- Data Visualization  
 
 ---
 
@@ -52,26 +53,25 @@ This project serves as a portfolio example of applied financial data analysis an
 
 Financial-Market-Analysis  
 │  
-├── app.py  
-├── data/  
-│   ├── raw/  
-│   └── processed/  
-│  
-├── powerbi/  
+├── powerbi
 │   └── Financial_Market_Analysis.pbix  
 │  
-├── screenshots/  
-├── documentation/  
+├── screenshots 
+├── documentation 
 └── README.md  
 
 ---
 
 ## 🚀 Getting Started
 
-```bash
-git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
-cd Financial-Market-Analysis
-pip install pandas matplotlib streamlit
-streamlit run app.py
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
+Open the Power BI file:
+
+powerbi/Financial_Market_Analysis.pbix
+Explore the dashboard using filters and visuals.
+
 👤 Author
 Akil Selot
