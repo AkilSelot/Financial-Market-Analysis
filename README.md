@@ -51,7 +51,7 @@ This project serves as a portfolio example of business intelligence and data vis
 
 ## 📁 Repository Structure
 
-Financial-Market-Analysis
+Financial-Market-Analysis  
 
 
 │  
@@ -78,18 +78,16 @@ Financial-Market-Analysis
 
 ---
 
-🚀 Getting Started
+## 🚀 Getting Started
 
-Download the repository as a ZIP file or clone it using Git:
+1. Clone this repository:
 
-git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
-
-
+   ```bash
+   git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
 Open the Power BI file:
-Financial_Market_Analysis.pbix
 
+powerbi/Financial_Market_Analysis.pbix
 Explore the dashboard using filters and visuals.
 
 👤 Author
-
 Akil Selot
