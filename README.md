@@ -53,9 +53,9 @@ Here is a snippet of the dataset used in the project:
 
 You can download and open the dataset in Excel:
 
-[Download financial_data.csv](data/financial_data.csv)
+[Download financial_data.csv](data/processed/financial_data.csv)
 
-> **Tip:** Save this CSV in `/data/financial_data.csv` in your repo so the link works.
+> **Tip:** Make sure your CSV file is in the `/data/processed/` folder in your repo.
 
 ---
 
@@ -76,7 +76,9 @@ Financial-Market-Analysis
 ├── powerbi/  
 │   └── Financial_Market_Analysis.pbix  
 ├── data/  
-│   └── financial_data.csv  
+│   ├── raw/  
+│   └── processed/  
+│       └── financial_data.csv  
 ├── screenshots/  
 ├── documentation/  
 └── README.md  
@@ -100,7 +102,7 @@ Financial-Market-Analysis
 3. Open the dataset in Excel (optional):
 
    ```
-   data/financial_data.csv
+   data/processed/financial_data.csv
    ```
 
 4. Explore the dashboard and dataset using filters, slicers, and Excel analysis.
@@ -120,4 +122,5 @@ If you want the live dashboard to be viewable by **everyone without login**, fol
 
 ## 👤 Author
 
-**Akil Selot**
+**Akil Selot**  
+Data Analyst  
