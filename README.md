@@ -53,10 +53,10 @@ This project serves as a portfolio example of business intelligence and data vis
 
 Financial-Market-Analysis  
 │  
-├── powerbi/  
+├── powerbi 
 │   └── Financial_Market_Analysis.pbix  
-├── screenshots/  
-├── documentation/  
+├── screenshots 
+├── documentation 
 └── README.md  
 
 ---
