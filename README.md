@@ -39,17 +39,17 @@ This project serves as a portfolio example of financial data analysis and struct
 ## 📁 Repository Structure
 
 Financial-Market-Analysis/
-
 │
-
-├── data/ # Datasets 
-
-├── analysis/ # Analysis files or notebooks
-
-├── screenshots/ # Project visuals (future)
-
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── powerbi/
+│   └── Financial_Market_Analysis.pbix
+│
+├── screenshots/
+├── documentation/
 └── README.md
-
 
 
 
