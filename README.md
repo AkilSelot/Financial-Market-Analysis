@@ -40,10 +40,15 @@ This project serves as a portfolio example of financial data analysis and struct
 
 Financial-Market-Analysis/
 │
-├── data/ # Datasets (if added)
+
+├── data/ # Datasets 
+
 ├── analysis/ # Analysis files or notebooks
+
 ├── screenshots/ # Project visuals (future)
+
 └── README.md
+
 
 
 
