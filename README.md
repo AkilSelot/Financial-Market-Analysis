@@ -1,4 +1,4 @@
-#  📊 Financial Market Analysis
+# 📊 Financial Market Analysis
 
 A professional financial market analysis project focused on exploring stock trends, understanding market behavior, and extracting meaningful insights from financial data.
 
@@ -75,4 +75,3 @@ pip install pandas matplotlib streamlit
 streamlit run app.py
 👤 Author
 Akil Selot
-Data Analyst
