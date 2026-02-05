@@ -52,29 +52,12 @@ This project serves as a portfolio example of business intelligence and data vis
 ## 📁 Repository Structure
 
 Financial-Market-Analysis  
-
-
 │  
-
-
 ├── powerbi/  
-
-
 │   └── Financial_Market_Analysis.pbix  
-
-
-│  
-
-
 ├── screenshots/  
-
-
 ├── documentation/  
-
-
 └── README.md  
-
-
 
 ---
 
@@ -84,10 +67,30 @@ Financial-Market-Analysis
 
    ```bash
    git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
-Open the Power BI file:
+   ```
 
-powerbi/Financial_Market_Analysis.pbix
-Explore the dashboard using filters and visuals.
+2. Open the Power BI file:
 
-👤 Author
-Akil Selot
+   ```
+   powerbi/Financial_Market_Analysis.pbix
+   ```
+
+3. Explore the dashboard using filters and visuals.
+
+---
+
+## 📌 Making the Dashboard Public (Optional)
+
+If you want the live dashboard to be viewable by **everyone without login**, follow these steps:
+
+1. Open your report in **Power BI Service (web)**  
+2. Click **File → Embed → Publish to web**  
+3. Copy the generated public URL  
+4. Replace the dashboard link in this README with that URL
+
+---
+
+## 👤 Author
+
+**Akil Selot**  
+Data Analyst  
