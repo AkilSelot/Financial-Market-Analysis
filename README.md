@@ -1,14 +1,25 @@
 # Financial Market Analysis
-This project is an interactive Power BI dashboard analyzing stock trends and financial markets.
 
-## What’s included:
-- Interactive Power BI dashboards
-- Stock trends and visualizations
-- Key metrics and insights for market analysis
+A financial market analysis project focused on exploring stock trends and key market metrics for multiple companies.
 
-## Usage:
-- Open the `.pbix` file in Power BI Desktop to explore the dashboard.
-- Use filters and slicers to analyze different stocks and time periods.
+## Project Overview
 
-## Author
-Akil Selot
+This repository contains resources and analysis related to financial markets, including:
+
+- Stock trend analysis  
+- Market performance exploration  
+- Key financial metrics and insights  
+- Foundations for building future dashboards or visualizations  
+
+## What’s Included
+
+- Market analysis concepts  
+- Stock trend observations  
+- Dataset exploration (if applicable)  
+- Project structure ready for future visualization tools  
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
