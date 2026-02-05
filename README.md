@@ -76,15 +76,15 @@ You can download and open the datasets in Excel:
 
 Financial-Market-Analysis  
 │  
-├── powerbi/  
+├── powerbi
 │   └── Financial_Market_Analysis.pbix  
-├── data/  
-│   ├── raw/  
+├── data 
+│   ├── raw
 │   │   └── stock_prices_raw.csv  
-│   └── processed/  
+│   └── processed 
 │       └── stock_prices_processed.csv  
-├── screenshots/  
-├── documentation/  
+├── screenshots
+├── documentation  
 └── README.md  
 
 ---
