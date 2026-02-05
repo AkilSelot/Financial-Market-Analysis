@@ -46,7 +46,6 @@ Financial-Market-Analysis/
 └── README.md
 
 
----
 
 ## 🚀 Getting Started
 
@@ -55,6 +54,4 @@ Financial-Market-Analysis/
 ```bash
 git clone https://github.com/AkilSelot/Financial-Market-Analysis.git
 
-
-## 📁 Repository Structure
-
+---
